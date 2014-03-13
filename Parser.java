@@ -1,5 +1,5 @@
 //Jethro Chan
-//Run this with my courselist.txt file I have also attached to this repository. 
+//Instructions: Run this with my courselist.txt file I have also attached to this repository. 
 
 //package parser;
 
