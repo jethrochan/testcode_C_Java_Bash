@@ -1,0 +1,482 @@
+32360 
+1:10 - 2:00 PM, T	 NPB 015V
+ONLINE TBA   A01 
+0       Bio & Physiol Aging
+SE  •  SE SL      Mcdonald, R 
+4.0 view
+32360
+[+]
+43797 
+1:10 - 2:00 PM, R	 NPB 015V
+ONLINE TBA   A02 
+5       Bio & Physiol Aging
+SE  •  SE SL      Mcdonald, R 
+4.0 view
+43797
+[+]
+43798 
+2:10 - 3:00 PM, T	 NPB 015V
+ONLINE TBA   A03 
+4       Bio & Physiol Aging
+SE  •  SE SL      Mcdonald, R 
+4.0 view
+43798
+[+]
+43799 
+2:10 - 3:00 PM, W	 NPB 015V
+ONLINE TBA   A04 
+2       Bio & Physiol Aging
+SE  •  SE SL      Mcdonald, R 
+4.0 view
+43799
+[+]
+43800 
+2:10 - 3:00 PM, R	 NPB 015V
+ONLINE TBA   A05 
+12      Bio & Physiol Aging
+SE  •  SE SL      Mcdonald, R 
+4.0 view
+43800
+[+]
+43801 
+3:10 - 4:00 PM, M	 NPB 015V
+ONLINE TBA   A06 
+3       Bio & Physiol Aging
+SE  •  SE SL      Mcdonald, R 
+4.0 view
+43801
+[+]
+43802 
+1:10 - 2:00 PM, W	 NPB 015V
+ONLINE TBA   A07 
+11      Bio & Physiol Aging
+SE  •  SE SL      Mcdonald, R 
+4.0 view
+43802
+[+]
+43803 
+1:10 - 2:00 PM, M	 NPB 015V
+ONLINE TBA   A08 
+9       Bio & Physiol Aging
+SE  •  SE SL      Mcdonald, R 
+4.0 view
+43803
+[+]
+43712 
+9:00 - 9:50 AM, MWF	 NPB 068
+SOCSCI 1100  001 
+184     Biology of Addiction
+SE  •  No GE Credit	 Bautista, E 
+3.0 view
+43712
+[+]
+32361 
+2:10 - 4:00 PM, R	 NPB 090C
+BRIGGS 197   001 
+4       Issues Animal Behavior
+No GE Credit  •  No GE Credit	 Hedrick, A 
+2.0   view
+32361
+[+]
+32405 
+12:10 - 1:30 PM, TR	 NPB 100
+EVERSN 176    A01 
+0       Neurobiology
+No GE Credit  •  QL	 Sutter, M 
+4.0   view
+32405
+[+]
+32405 
+5:10 - 6:00 PM, W	 NPB 100
+HUTCH 102    A01 
+0      Neurobiology
+No GE Credit  •  QL	 Sutter, M 
+4.0   view
+32405
+[+]
+32406 
+9:00 - 9:50 AM, W	 NPB 100
+HOAGLD 108   A02 
+0       Neurobiology
+No GE Credit  •  QL	 Sutter, M 
+4.0   view
+32406
+[+]
+32406 
+12:10 - 1:30 PM, TR	 NPB 100
+EVERSN 176    A02 
+0       Neurobiology
+No GE Credit  •  QL	 Sutter, M 
+4.0   view
+32406
+[+]
+32407 
+10:00 - 10:50 AM, W	 NPB 100
+HOAGLD 108     A03 
+0       Neurobiology
+No GE Credit  •  QL	 Sutter, M 
+4.0   view
+32407
+[+]
+32407 
+12:10 - 1:30 PM, TR	 NPB 100
+EVERSN 176    A03 
+0       Neurobiology
+No GE Credit  •  QL	 Sutter, M 
+4.0   view
+32407
+[+]
+32408 
+8:00 - 8:50 AM, W	 NPB 100
+HUTCH 102    A04 
+0      Neurobiology
+No GE Credit  •  QL	 Sutter, M 
+4.0   view
+32408
+[+]
+32408 
+12:10 - 1:30 PM, TR	 NPB 100
+EVERSN 176    A04 
+0       Neurobiology
+No GE Credit  •  QL	 Sutter, M 
+4.0   view
+32408
+[+]
+32409 
+12:10 - 1:30 PM, TR	 NPB 100
+EVERSN 176    A05 
+0       Neurobiology
+No GE Credit  •  QL	 Sutter, M 
+4.0   view
+32409
+[+]
+32409 
+3:10 - 4:00 PM, W	 NPB 100
+HOAGLD 108   A05 
+0       Neurobiology
+No GE Credit  •  QL	 Sutter, M 
+4.0   view
+32409
+[+]
+32410 
+12:10 - 1:30 PM, TR	 NPB 100
+EVERSN 176    A06 
+0       Neurobiology
+No GE Credit  •  QL	 Sutter, M 
+4.0   view
+32410
+[+]
+32410 
+4:10 - 5:00 PM, W	 NPB 100
+HOAGLD 108   A06 
+0       Neurobiology
+No GE Credit  •  QL	 Sutter, M 
+4.0   view
+32410
+[+]
+32411 
+2:10 - 3:00 PM, M	 NPB 100L
+WELLMN 115   A01 
+5       Neurobiology Lab
+No GE Credit  •  SE	 Goldman, M 
+3.0   view
+32411
+[+]
+32411 
+2:10 - 5:00 PM, R	 NPB 100L
+SCILAB 2011  A01 
+5       Neurobiology Lab
+No GE Credit  •  SE	 Goldman, M 
+3.0   view
+32411
+[+]
+43682 
+2:10 - 5:00 PM, W	 NPB 100L
+SCILAB 2011  A02 
+1       Neurobiology Lab
+No GE Credit  •  SE	 Goldman, M 
+3.0   view
+43682
+[+]
+43682 
+2:10 - 3:00 PM, M	 NPB 100L
+WELLMN 115   A02 
+1       Neurobiology Lab
+No GE Credit  •  SE	 Goldman, M 
+3.0   view
+43682
+[+]
+32412 
+8:00 - 8:50 AM, MTWRF	 NPB 101
+SCILEC 123   001 
+0       Systemic Physiology
+SE  •  SE	  Bautista,Warden 
+5.0 view
+32412
+[+]
+32413 
+9:00 - 11:50 AM, T	 NPB 101L
+SCILAB 2021   001 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32413
+[+]
+32413 
+10:00 - 11:50 AM, R	 NPB 101L
+SCILAB 2011    001 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32413
+[+]
+32414 
+1:10 - 4:00 PM, T	 NPB 101L
+SCILAB 2021  002 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32414
+[+]
+32414 
+2:10 - 4:00 PM, R	 NPB 101L
+STORER 1344  002 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32414
+[+]
+32415 
+5:10 - 8:00 PM, T	 NPB 101L
+SCILAB 2021  003 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32415
+[+]
+32415 
+5:10 - 7:00 PM, R	 NPB 101L
+SCILAB 2011  003 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32415
+[+]
+32416 
+9:00 - 11:50 AM, W	 NPB 101L
+SCILAB 2021   004 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32416
+[+]
+32416 
+9:00 - 10:50 AM, F	 NPB 101L
+SCILAB 2011   004 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32416
+[+]
+32417 
+1:10 - 4:00 PM, W	 NPB 101L
+SCILAB 2021  005 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32417
+[+]
+32417 
+1:10 - 3:00 PM, F	 NPB 101L
+SCILAB 2011  005 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32417
+[+]
+32418 
+5:10 - 8:00 PM, W	 NPB 101L
+SCILAB 2021  006 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32418
+[+]
+32418 
+5:10 - 7:00 PM, F	 NPB 101L
+SCILAB 2011  006 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32418
+[+]
+32419 
+9:00 - 10:50 AM, T	 NPB 101L
+SCILAB 2011   007 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32419
+[+]
+32419 
+9:00 - 11:50 AM, R	 NPB 101L
+SCILAB 2021   007 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32419
+[+]
+32420 
+1:10 - 4:00 PM, R	 NPB 101L
+SCILAB 2021  008 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32420
+[+]
+32420 
+2:10 - 4:00 PM, T	 NPB 101L
+STORER 1344  008 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32420
+[+]
+32421 
+2:10 - 4:00 PM, T	 NPB 101L
+SCILAB 2011  009 
+23      Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32421
+[+]
+32421 
+5:10 - 8:00 PM, R	 NPB 101L
+SCILAB 2021  009 
+23      Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32421
+[+]
+32422 
+9:00 - 11:50 AM, M	 NPB 101L
+SCILAB 2021   010 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32422
+[+]
+32422 
+9:00 - 10:50 AM, W	 NPB 101L
+SCILAB 2011   010 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32422
+[+]
+32423 
+1:10 - 4:00 PM, M	 NPB 101L
+SCILAB 2021  011 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32423
+[+]
+32423 
+2:10 - 4:00 PM, W	 NPB 101L
+STORER 1344  011 
+0       Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32423
+[+]
+32424 
+5:10 - 8:00 PM, M	 NPB 101L
+SCILAB 2021  012 
+14      Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32424
+[+]
+32424 
+5:10 - 7:00 PM, W	 NPB 101L
+SCILAB 2011  012 
+14      Systemic Physiology Lab
+No GE Credit  •  No GE Credit	 Bautista, E 
+3.0   view
+32424
+[+]
+32426 
+10:30 - 11:50 AM, TR	 NPB 102
+YOUNG 198      001 
+0      Animal Behavior
+No GE Credit  •  SL	 Nevitt, G 
+3.0   view
+32426
+[+]
+43710 
+8:30 - 9:50 AM, TR	 NPB 107
+MDSC C 180   001 
+112   Signaling Health/Disease
+No GE Credit  •  SL	 Trimmer, J 
+3.0   view
+43710
+[+]
+32440 
+1:40 - 3:00 PM, TR	 NPB 117
+HARING 1204  001 
+5       Avian Physiology
+No GE Credit  •  No GE Credit	 Klasing, K 
+3.0   view
+32440
+[+]
+32443 
+9:00 - 10:20 AM, TR	 NPB 152
+GIEDT 1001    001 
+0      Hormones & Behavior
+No GE Credit  •  No GE Credit	 Bales,Hahn 
+3.0   view
+32443
+[+]
+* Cross-listed course. See details for more information.
+32444 
+4:10 - 5:30 PM, TR	 NPB 162
+WELLMN 230   001 
+0       Neural Mechan of Behav
+No GE Credit  •  No GE Credit	 Britten, K 
+3.0   view
+32444
+[+]
+43711 
+12:10 - 1:30 PM, TR	 NPB 165
+STORER 1322   001 
+0       Neurobiology of Speech
+No GE Credit  •  SL	 Miller, L 
+3.0   view
+43711
+[+]
+32445 
+2:10 - 4:00 PM, TR	 NPB 168
+SCILEC 123   001 
+53      Neurobiol Addict Drugs
+No GE Credit  •  SL VL	 Liets, L 
+4.0   view
+32445
+[+]
+43714 
+5:30 - 7:30 PM, R	 NPB 261C
+UCDMCS TBA   001 
+17      Topics in Vision
+No GE Credit  •  No GE Credit	 Werner, J 
+2.0   view
+43714
+[+]
+* Cross-listed course. See details for more information.
+32564 
+7:10 - 9:00 PM, W	 NPB 270
+NEUBLG 113   001 
+22      Write Grant Proposal
+No GE Credit  •  No GE Credit	 Burns, M 
+3.0   view
+32564
+[+]
